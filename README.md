@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @huntabhay7
-- 👀 I’m interested in cybersecurity..
-- 🌱 I’m currently learning basic cybersecurity skill...
-- 💞️ I’m looking to collaborate on cybersecurity professional...
-- 📫 How to reach me .insta  abhhaypandit..
-<h1 align="center">👋 Hello, I'm Abhay Pandit </h1>
-<h3 align="center">Coder | Studing BCA from IGNOU 
-
----
 
 ## 🚀 About Me
 
@@ -14,6 +5,8 @@
 -  👀 I’m interested in cybersecurity,Forensics ,binary Exploitation ,Reverse Enginering , Wb-app Pentesting , Mobile-App Pentesting ,Thick Click Pentesting
 -  💞️ I’m looking to collaborate on cybersecurity professional...
 - 💌 How to reach me: <p align="center"> <a href="mailto:abhaypandit7278@gmail"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a> </p>
+- <h1 align="center">👋 Hello, I'm Abhay Pandit </h1>
+<h3 align="center">Coder | Studing BCA from IGNOU 
 
 ---
 
