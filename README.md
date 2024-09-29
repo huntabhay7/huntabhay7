@@ -33,17 +33,6 @@
 </p>
 
 ---
-
-<table align="center">
-  <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=soumojitgarai&theme=xcode&hide_border=false&area=true&custom_title=Github%20Contribution%20Graph"></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="http://www.github.com/soumojitgarai"><img src="https://github-readme-stats.vercel.app/api?username=soumojitgarai&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=6366f1&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="soumojitgarai's GitHub stats" /></a>
-</td>
-    <td align="center"><a href="http://www.github.com/soumojitgarai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=soumojitgarai&stroke=6366f1&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=6366f1&currStreakLabel=0891b2&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
-</table>
-
 | Language and Suite | Product and Framework |
 | :---: | :---: |
 | <img src = "https://img.shields.io/badge/Language-Page?style=flat&color=008bb9" height = 30px> | <img src = "https://img.icons8.com/color/60/000000/python--v1.png" height = 60px> <img src = "https://img.icons8.com/color/60/000000/javascript--v1.png" height = 60px> <img src = "https://img.icons8.com/color/60/000000/c-programming.png" height = 60px> <img src = "https://img.icons8.com/color/60/000000/c-plus-plus-logo.png" height = 60px> |
