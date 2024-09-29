@@ -1,10 +1,13 @@
-
+- <h1 align="center">👋 Hello, I'm Abhay Pandit </h1>
+<h3 align="center">Coder | Studing BCA from IGNOU 
+---
 ## 🚀 About Me
+
 
 - 🔭 👋 Hi, I’m @huntabhay7 (Abhay Pandit)
 -  👀 I’m interested in cybersecurity,Forensics ,binary Exploitation ,Reverse Enginering , Wb-app Pentesting , Mobile-App Pentesting ,Thick Click Pentesting
 -  💞️ I’m looking to collaborate on cybersecurity professional...
-- 💌 How to reach me: <p align="center"> <a href="mailto:abhaypandit7278@gmail"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a> </p>
+- 💌 How to reach me: <p align="center"> <a href="mailto:abhaypandit7278@gmail"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>- </p>
 - <h1 align="center">👋 Hello, I'm Abhay Pandit </h1>
 <h3 align="center">Coder | Studing BCA from IGNOU 
 
